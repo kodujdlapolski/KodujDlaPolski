@@ -9,9 +9,9 @@
  * [organizacja na linkedinie](https://www.linkedin.com/company/koduj-dla-polski)
  * kanał IRC #kodujdlapolski
 
-## Comiesięczne wideopołączenie liderów brygad
+## Codwutygodniowe wideopołączenie liderów brygad
 
- * co miesiąc odbywa się wideopołączenie liderów brygad z koordynatorami KdP
+ * co dwa tygodnie odbywa się wideopołączenie liderów brygad z koordynatorami KdP
  * w spotkaniu mogą brać udział też inny członkowie społeczności
  * zapis wideopołączenia zostaje udostępniony na Youtubie
  * celem spotkania jest ustalenie priorytetów dla koordynatorów na następny miesiąc
